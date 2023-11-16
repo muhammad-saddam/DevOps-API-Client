@@ -1,0 +1,32 @@
+[
+  {
+    "pullRequestId": 2,
+    "title": "Updated LogicApp.parameters.json",
+    "name": "Azure-Integration-Services",
+    "targetRefName": "refs/heads/master",
+    "CreatedBy": "Muhammad Saddam",
+    "DateCreated": "2021-10-27T09:52:49.8666125Z",
+    "IsDraft": false,
+    "pullRequestRepositoryId": "2baf6b6d-5ce3-4e1d-8487-3a187fda3169",
+    "WorkItems": [
+      {
+        "Number": 2,
+        "Type": "Task",
+        "Title": "Test Task",
+        "Area": "Azure-Integration-Services",
+        "Tags": [
+          "Arch",
+          " Dev"
+        ],
+        "Url": "https://dev.azure.com/MuhammadSaddam0495/4aba6280-60be-40ca-a9e1-0ad21d482e4a/_apis/wit/workItems/2",
+        "Areas": [
+          "Azure-Integration-Services"
+        ]
+      }
+    ],
+    "Url": "https://dev.azure.com/MuhammadSaddam0495/4aba6280-60be-40ca-a9e1-0ad21d482e4a/_apis/git/repositories/2baf6b6d-5ce3-4e1d-8487-3a187fda3169/pullRequests/2",
+    "ApprovalsReceived": [
+      "Muhammad Saddam"
+    ]
+  }
+]

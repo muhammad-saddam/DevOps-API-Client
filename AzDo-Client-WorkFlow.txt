@@ -1,0 +1,10 @@
+WorkFlow:
+GetAllOpenPullRequestsAsync ==>
+	GetAllProjectsAsync =>
+		GetPullRequestByProjectName ==>
+			GetPullRequestReviewerList =>
+					GetPullRequestWorkItemsByPullRequestIdAsync =>
+						GetWorkItemsbyWorkItemIds ==>
+																																																		
+																	
+												
